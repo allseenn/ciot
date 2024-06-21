@@ -40,20 +40,18 @@
 
 ##### Задача 1. Светофор
 
-Код:
-Фото:
-Видео:
+- Код: [https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.ino](https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.ino)
+- Фото: [https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.jpg](https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.jpg)
+- Видео: [https://github.com/allseenn/ciot/raw/main/01.Tasks/01/01.mp4](https://github.com/allseenn/ciot/raw/main/01.Tasks/01/01.mp4)
 
 ##### Задача 2. Кнопка перехода
 
-Код:
-Фото:
-Видео:
+- Код: [https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.ino](https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.ino)
+- Фото: [https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.jpg](https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.jpg)
+- Видео: [https://github.com/allseenn/ciot/raw/main/01.Tasks/02/02.mp4](https://github.com/allseenn/ciot/raw/main/01.Tasks/02/02.mp4)
 
 ##### Задача 3*. Включение светодиода
 
-Код:
-Фото:
-Видео: 
-
-
+- Код: [https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.ino](https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.ino)
+- Фото: [https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.jpg](https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.jpg)
+- Видео: [https://github.com/allseenn/ciot/raw/main/01.Tasks/03/03.mp4](https://github.com/allseenn/ciot/raw/main/01.Tasks/03/03.mp4)

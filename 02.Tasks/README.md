@@ -42,9 +42,9 @@
 
 ##### Задача 1. Светофор
 
-- Код: [https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.ino](https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.ino)
-- Фото: [https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.jpg](https://github.com/allseenn/ciot/blob/main/01.Tasks/01/01.jpg)
-- Видео: [https://github.com/allseenn/ciot/raw/main/01.Tasks/01/01.mp4](https://github.com/allseenn/ciot/raw/main/01.Tasks/01/01.mp4)
+- Код: [https://github.com/allseenn/ciot/tree/main/02.Tasks/01](https://github.com/allseenn/ciot/tree/main/02.Tasks/01)
+- Фото: [https://github.com/allseenn/ciot/blob/main/02.Tasks/01.jpg](https://github.com/allseenn/ciot/blob/main/02.Tasks/01.jpg)
+- Видео: [https://github.com/allseenn/ciot/raw/main/02.Tasks/01.mp4](https://github.com/allseenn/ciot/raw/main/02.Tasks/01.mp4)
 
 ##### Задача 2. Кнопка перехода
 
@@ -52,15 +52,15 @@
 При нажатии на кнопку пешеходам загорается желтый сигнал. Для водителей мигает желтый. Далее транспортный светофор включает запрещающий сигнал. А Пешеходный разрешает движение.
 Через некоторое время пешеходный светофор предупреждает о скором закрытии перехода. Включается запрет для пешеходов, и транспортный светофор переключается в автоматический режим регулирования автомобильного движения.
 
-- Код: [https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.ino](https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.ino)
-- Фото: [https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.jpg](https://github.com/allseenn/ciot/blob/main/01.Tasks/02/02.jpg)
-- Видео: [https://github.com/allseenn/ciot/raw/main/01.Tasks/02/02.mp4](https://github.com/allseenn/ciot/raw/main/01.Tasks/02/02.mp4)
+- Код: [https://github.com/allseenn/ciot/tree/main/02.Tasks/02](https://github.com/allseenn/ciot/tree/main/02.Tasks/02)
+- Фото: [https://github.com/allseenn/ciot/blob/main/02.Tasks/02.jpg](https://github.com/allseenn/ciot/blob/main/02.Tasks/02.jpg)
+- Видео: [https://github.com/allseenn/ciot/raw/main/02.Tasks/02.mp4](https://github.com/allseenn/ciot/raw/main/02.Tasks/02.mp4)
 
 ##### Задача 3*. Включение светодиода
 
-- Код: [https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.ino](https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.ino)
-- Фото: [https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.jpg](https://github.com/allseenn/ciot/blob/main/01.Tasks/03/03.jpg)
-- Видео: [https://github.com/allseenn/ciot/raw/main/01.Tasks/03/03.mp4](https://github.com/allseenn/ciot/raw/main/01.Tasks/03/03.mp4)
+- Код: [https://github.com/allseenn/ciot/tree/main/02.Tasks/03](https://github.com/allseenn/ciot/tree/main/02.Tasks/03)
+- Фото: [https://github.com/allseenn/ciot/blob/main/02.Tasks/03.jpg](https://github.com/allseenn/ciot/blob/main/02.Tasks/03.jpg)
+- Видео: [https://github.com/allseenn/ciot/raw/main/02.Tasks/03.mp4](https://github.com/allseenn/ciot/raw/main/02.Tasks/03.mp4)
 
 
 #### Источники

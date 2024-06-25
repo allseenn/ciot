@@ -1,0 +1,11 @@
+../Core/Src/main.c:40:5:main	12
+../Core/Src/main.c:132:6:cleanCounters	1
+../Core/Src/main.c:140:6:initGPIO	1
+../Core/Src/main.c:151:6:trafOff	1
+../Core/Src/main.c:158:6:walkOff	1
+../Core/Src/main.c:165:5:trafGreenOn	1
+../Core/Src/main.c:173:5:trafYellowOn	1
+../Core/Src/main.c:181:5:trafRedOn	1
+../Core/Src/main.c:189:5:walkGreenOn	1
+../Core/Src/main.c:197:5:walkYellowOn	1
+../Core/Src/main.c:205:5:walkRedOn	1
